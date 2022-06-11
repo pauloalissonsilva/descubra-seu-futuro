@@ -1,0 +1,14 @@
+/* Custom variables */
+:root {
+    --clr-bkg-main: black;
+    --clr-txt-main: white;
+    --clr-bkg-btn: blueviolet;
+}
+
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
